@@ -20,4 +20,5 @@ public class BinaEntity {
     String location;
     String info;
     String tarix;
+    String binaid;
 }
